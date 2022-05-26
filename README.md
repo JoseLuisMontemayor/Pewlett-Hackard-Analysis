@@ -6,7 +6,7 @@ The purpose of this project was to analyze the employment database of a company 
 ### Results
 After all the calculations and recopilations from the different tables, we can see in the first deliverable how many employees are going to retire and to which position they belong. 
 
-*Insert retiring titles
+![](https://github.com/JoseLuisMontemayor/Pewlett-Hackard-Analysis/blob/main/retiring_titles.PNG)
 
 - From the image result shown, we can see that the most affected position will be the Senior Engineer, followed by the Senior Staff and Engineers. For this output we utilized the "employees" file, in which the names, dates and posiiton were taken, apart from the creation of other 2 tables ("retirement_titles" and "unique_titles") that helped compile the final information.
 - The creation of the last 2 tables mentioned, helped incredibly to show the relevant information of counts and posiitons that there actually in the first taken file, since it showed a ton of data and based on the creation of new tables it could be compiled in a easy and visual way for the user. 
