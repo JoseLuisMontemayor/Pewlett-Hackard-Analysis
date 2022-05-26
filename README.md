@@ -17,6 +17,6 @@ After all the calculations and recopilations from the different tables, we can s
 As the shown tables, the retirement numbers will start to affect the company and will need to start to hire and train new employees to take the roles of the future absent. Right now there are mapped about 90,398 persons that will need to be replaced across the departments and 2 managers position that will need to be thought about.
 In the next table shown we can see the format in which it is displayed the mentorship eligibility data. 
 
-* Insert Mentorship eligibility table
+![](https://github.com/JoseLuisMontemayor/Pewlett-Hackard-Analysis/blob/main/mentorship_eligibility.PNG)
 
 This table has a great potential, since it shows all the specific data when taking into account the positions and type of people when start organizing the mentorship program, and how it can be displayed for each position for better understanding.
