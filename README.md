@@ -8,5 +8,5 @@ After all the calculations and recopilations from the different tables, we can s
 
 *Insert retiring titles
 
-- Hola
-- 
+- From the image result shown, we can see that the most affected position will be the Senior Engineer, followed by the Senior Staff and Engineers. For this output we utilized the "employees" file, in which the names, dates and posiiton were taken, apart from the creation of other 2 tables ("retirement_titles" and "unique_titles") that helped compile the final information.
+- The the 
